@@ -6,3 +6,8 @@
     background-color: aqua;
     color: black;
 }
+#resultado{
+    font-size: 150px;
+    color:blue;
+    margin-left: 1000px;
+}
